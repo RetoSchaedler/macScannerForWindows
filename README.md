@@ -8,4 +8,4 @@ MAC IP Adress Scanner für Windows
 
 
 
-![Demo]([https://github.com/RetoSchaedler/FaceRecognition/raw/main/RecPic.png](https://github.com/RetoSchaedler/macScannerForWindows/blob/main/screenshot.png))
+![Demo](https://github.com/RetoSchaedler/macScannerForWindows/blob/main/screenshot.png)
